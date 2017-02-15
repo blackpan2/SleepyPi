@@ -22,7 +22,7 @@
 //
 // Options
 // ========
-// - It the "Configuration" section below setup the Interval and Time outs that
+// - In the "Configuration" section below setup the Interval and Time outs that
 //   you need.
 // - The actual time on the RTC doesn't really matter for this example as it is
 //   working on intervals. If you want the exact time you can sync it first 
